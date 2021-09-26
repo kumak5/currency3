@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">currency3</string>
+    <string name="download_json">Download JSON</string>
+</resources>
